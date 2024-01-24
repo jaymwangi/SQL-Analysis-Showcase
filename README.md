@@ -1,4 +1,4 @@
-# Repository Description:
+# SQL-Analysis-Showcase :
 
 
 Welcome to the **SQL Analysis Showcase**! Explore a collection of my data analysis projects, where I leverage the power of SQL to extract meaningful insights from diverse datasets. Each project is a testament to my proficiency in SQL, showcasing a range of skills from fundamental querying to advanced analytical techniques.
